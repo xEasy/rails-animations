@@ -35,7 +35,7 @@ bundle install
 *= require animations/all
 ```
 
-#### Modules
+#### Modules (TODO)
 
 ```
 *= require animations/#{module_name}/all
