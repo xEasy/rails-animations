@@ -1,0 +1,1 @@
+require "rails-animation/engine"
