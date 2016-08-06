@@ -1,1 +1,1 @@
-require "rails-animation/engine"
+require "rails-animations/engine"
